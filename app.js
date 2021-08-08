@@ -36,4 +36,3 @@ const postimage = async() => {
 }
 
 postimage();
-// console.log(myname, userPassword)
